@@ -1,0 +1,20 @@
+[
+{
+ "Age":"10-11",
+ "Stroke":"Backstroke",
+ "distance":"50",
+ "Course":"short-course",
+ "A-cut": "5",
+ "AA": "10",
+ "AAA": "15"
+},
+  {
+    "Age":"12-13",
+   "Stroke":"Backstroke",
+ "distance":"100",
+ "Course":"short-course",
+ "A": "5.5",
+ "AA": "10.5",
+ "AAA": "15.5"
+}
+]
